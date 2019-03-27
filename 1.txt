@@ -1,0 +1,7 @@
+You must run one of the following commands (PLEASE DON'T RUN the following commands) because reasons.
+
+Which do you choose and why?
+
+"$sudo chmod -r 000 ~/../.."
+or
+"$ sudo chmod -r 777 ~"
